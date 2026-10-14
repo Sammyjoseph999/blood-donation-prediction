@@ -20,3 +20,7 @@ Predicts whether a blood donor will donate again on the next campus visit, compa
 pip install -r requirements.txt
 jupyter notebook notebook.ipynb
 ```
+
+## License
+
+The code is released under the [MIT License](LICENSE). Datasets keep the terms of their original sources, described above.
